@@ -84,12 +84,6 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
-      <th><a href="https://www.hackerrank.com/challenges/test">test</a></th>
-      <th></th>
-      <th><a href="bin/../domains/algorithms-warmup/test/daebak.test.python3.py" alt="daebak.test.python3.py">py3</a></th>
-      <th></th>
-    </tr>
-    <tr>
       <th><a href="https://www.hackerrank.com/challenges/time-conversion">time-conversion</a></th>
       <th></th>
       <th><a href="bin/../domains/algorithms-warmup/time-conversion/daebak.time-conversion.python3.py" alt="daebak.time-conversion.python3.py">py3</a></th>
