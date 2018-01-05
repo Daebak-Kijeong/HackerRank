@@ -4,7 +4,7 @@
 Solving [HackerRank](https://www.hackerrank.com) for some knowledge and fun!
 Contact me if you want to join us!
 
-* Kiyeon25 E-mail: daebak-kijeong@daum.net
+* Kiyeon25  //  E-mail: daebak-kijeong@daum.net
 
 ## Progress
 <table>
@@ -12,7 +12,7 @@ Contact me if you want to join us!
     <tr>
       <th>challenge</th>
       <th>xenosoz</th>
-      <th>Kiyeon25</th>
+      <th>Daebak</th>
       <th>Join us!</th>
     </tr>
   </thead>
