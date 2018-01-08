@@ -56,7 +56,7 @@ Contact me if you want to join us!
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/grading">grading</a></th>
       <th><a href="bin/../domains/algorithms-implementation/grading/xenosoz.grading.python3.py" alt="xenosoz.grading.python3.py">py3</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/grading/daebak.grading.python3.py" alt="daebak.grading.python3.py">py3</a></th>
       <th></th>
     </tr>
     <tr>
