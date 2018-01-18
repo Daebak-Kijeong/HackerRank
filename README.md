@@ -42,6 +42,12 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
+      <th><a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records">breaking-best-and-worst-records</a></th>
+      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/breaking-best-and-worst-records/daebak.breaking-best-and-worst-records.python3.py" alt="daebak.breaking-best-and-worst-records.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
       <th><a href="https://www.hackerrank.com/challenges/compare-the-triplets">compare-the-triplets</a></th>
       <th><a href="bin/../domains/algorithms-warmup/compare-the-triplets/xenosoz.compare-the-triplets.python3.py" alt="xenosoz.compare-the-triplets.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-warmup/compare-the-triplets/daebak.compare-the-triplets.python3.py" alt="daebak.compare-the-triplets.python3.py">py3</a></th>
