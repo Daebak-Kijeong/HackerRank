@@ -1,16 +1,17 @@
+##between-two-sets
 import sys
 
 def getTotalX(a, b):
     c = [[i for i in range(1, 101) if i % a[j] == 0] for j in range(len(a))]
     d = list(map(set, c))
 
-    def inter(num, l):
+    def inter(num, T):
         if num <= 1:
-            return l[0]
+            return T[0]
         else:
             for k in range(num - 1):
-                l[k + 1] = l[k] & l[k + 1]
-            return l[k + 1]
+                T[k + 1] = T[k] & T[k + 1]
+            return T[k + 1]
     inter1 = inter(n, d)
     # 약수구하기
     s2 = []
@@ -24,11 +25,6 @@ def getTotalX(a, b):
             num -= 1
 
         s2.append(s)
-    # s = []
-    #
-    # for i in range(m + 1):
-    #     if n % i == 0:
-    #         s.append(i)
 
     for i in range(len(s2)):
         s2[i] = set(s2[i])
