@@ -84,6 +84,12 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
+      <th><a href="https://www.hackerrank.com/challenges/migratory-birds">migratory-birds</a></th>
+      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/migratory-birds/daebak.migratory-birds.python3.py" alt="daebak.migratory-birds.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
       <th><a href="https://www.hackerrank.com/challenges/mini-max-sum">mini-max-sum</a></th>
       <th><a href="bin/../domains/algorithms-warmup/mini-max-sum/xenosoz.mini-max-sum.python3.py" alt="xenosoz.mini-max-sum.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-warmup/mini-max-sum/daebak.mini-max-sum.python3.py" alt="daebak.mini-max-sum.python3.py">py3</a></th>
