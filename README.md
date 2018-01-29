@@ -31,19 +31,19 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/between-two-sets">between-two-sets</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/between-two-sets/xenosoz.between-two-sets.python3.py" alt="xenosoz.between-two-sets.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/between-two-sets/daebak.between-two-sets.python3.py" alt="daebak.between-two-sets.python3.py">py3</a></th>
       <th></th>
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/birthday-cake-candles">birthday-cake-candles</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-warmup/birthday-cake-candles/xenosoz.birthday-cake-candles.python3.py" alt="xenosoz.birthday-cake-candles.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-warmup/birthday-cake-candles/daebak.birthday-cake-candles.python3.py" alt="daebak.birthday-cake-candles.python3.py">py3</a></th>
       <th></th>
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records">breaking-best-and-worst-records</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/breaking-best-and-worst-records/xenosoz.breaking-best-and-worst-records.python3.py" alt="xenosoz.breaking-best-and-worst-records.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/breaking-best-and-worst-records/daebak.breaking-best-and-worst-records.python3.py" alt="daebak.breaking-best-and-worst-records.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -61,7 +61,7 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/divisible-sum-pairs">divisible-sum-pairs</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/divisible-sum-pairs/xenosoz.divisible-sum-pairs.python3.py" alt="xenosoz.divisible-sum-pairs.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/divisible-sum-pairs/daebak.divisible-sum-pairs.python3.py" alt="daebak.divisible-sum-pairs.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -79,7 +79,7 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/kangaroo">kangaroo</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/kangaroo/xenosoz.kangaroo.python3.py" alt="xenosoz.kangaroo.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/kangaroo/daebak.kangaroo.python3.py" alt="daebak.kangaroo.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -115,13 +115,13 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/the-birthday-bar">the-birthday-bar</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/the-birthday-bar/xenosoz.the-birthday-bar.python3.py" alt="xenosoz.the-birthday-bar.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/the-birthday-bar/daebak.the-birthday-bar.python3.py" alt="daebak.the-birthday-bar.python3.py">py3</a></th>
       <th></th>
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/time-conversion">time-conversion</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-warmup/time-conversion/xenosoz.time-conversion.python3.py" alt="xenosoz.time-conversion.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-warmup/time-conversion/daebak.time-conversion.python3.py" alt="daebak.time-conversion.python3.py">py3</a></th>
       <th></th>
     </tr>
