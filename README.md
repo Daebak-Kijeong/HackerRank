@@ -54,6 +54,12 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
+      <th><a href="https://www.hackerrank.com/challenges/day-of-the-programmer">day-of-the-programmer</a></th>
+      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/day-of-the-programmer/daebak.day-of-the-programmer.python3.py" alt="daebak.day-of-the-programmer.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
       <th><a href="https://www.hackerrank.com/challenges/diagonal-difference">diagonal-difference</a></th>
       <th><a href="bin/../domains/algorithms-warmup/diagonal-difference/xenosoz.diagonal-difference.python3.py" alt="xenosoz.diagonal-difference.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-warmup/diagonal-difference/daebak.diagonal-difference.python3.py" alt="daebak.diagonal-difference.python3.py">py3</a></th>
