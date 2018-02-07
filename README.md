@@ -120,6 +120,12 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
+      <th><a href="https://www.hackerrank.com/challenges/sock-merchant">sock-merchant</a></th>
+      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/sock-merchant/daebak.sock-merchant.python3.py" alt="daebak.sock-merchant.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
       <th><a href="https://www.hackerrank.com/challenges/staircase">staircase</a></th>
       <th><a href="bin/../domains/algorithms-warmup/staircase/xenosoz.staircase.python3.py" alt="xenosoz.staircase.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-warmup/staircase/daebak.staircase.python3.py" alt="daebak.staircase.python3.py">py3</a></th>
