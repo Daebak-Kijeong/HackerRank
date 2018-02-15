@@ -60,6 +60,12 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
+      <th><a href="https://www.hackerrank.com/challenges/counting-valleys">counting-valleys</a></th>
+      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/counting-valleys/daebak.counting-valleys.python3.py" alt="daebak.counting-valleys.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
       <th><a href="https://www.hackerrank.com/challenges/day-of-the-programmer">day-of-the-programmer</a></th>
       <th></th>
       <th><a href="bin/../domains/algorithms-implementation/day-of-the-programmer/daebak.day-of-the-programmer.python3.py" alt="daebak.day-of-the-programmer.python3.py">py3</a></th>
