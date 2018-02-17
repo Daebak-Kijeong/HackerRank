@@ -90,6 +90,12 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
+      <th><a href="https://www.hackerrank.com/challenges/electronics-shop">electronics-shop</a></th>
+      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/electronics-shop/daebak.electronics-shop.python3.py" alt="daebak.electronics-shop.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
       <th><a href="https://www.hackerrank.com/challenges/equality-in-a-array">equality-in-a-array</a></th>
       <th><a href="bin/../domains/algorithms-implementation/equality-in-a-array/xenosoz.equality-in-a-array.python3.py" alt="xenosoz.equality-in-a-array.python3.py">py3</a></th>
       <th></th>
