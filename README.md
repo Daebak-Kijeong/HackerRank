@@ -43,7 +43,7 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/bon-appetit">bon-appetit</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/bon-appetit/xenosoz.bon-appetit.python3.py" alt="xenosoz.bon-appetit.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/bon-appetit/daebak.bon-appetit.python3.py" alt="daebak.bon-appetit.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -54,6 +54,12 @@ Contact me if you want to join us!
       <th></th>
     </tr>
     <tr>
+      <th><a href="https://www.hackerrank.com/challenges/cats-and-a-mouse">cats-and-a-mouse</a></th>
+      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/cats-and-a-mouse/daebak.cats-and-a-mouse.python3.py" alt="daebak.cats-and-a-mouse.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
       <th><a href="https://www.hackerrank.com/challenges/compare-the-triplets">compare-the-triplets</a></th>
       <th><a href="bin/../domains/algorithms-warmup/compare-the-triplets/xenosoz.compare-the-triplets.python3.py" alt="xenosoz.compare-the-triplets.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-warmup/compare-the-triplets/daebak.compare-the-triplets.python3.py" alt="daebak.compare-the-triplets.python3.py">py3</a></th>
@@ -61,13 +67,13 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/counting-valleys">counting-valleys</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/counting-valleys/xenosoz.counting-valleys.python3.py" alt="xenosoz.counting-valleys.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/counting-valleys/daebak.counting-valleys.python3.py" alt="daebak.counting-valleys.python3.py">py3</a></th>
       <th></th>
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/day-of-the-programmer">day-of-the-programmer</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/day-of-the-programmer/xenosoz.day-of-the-programmer.python3.py" alt="xenosoz.day-of-the-programmer.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/day-of-the-programmer/daebak.day-of-the-programmer.python3.py" alt="daebak.day-of-the-programmer.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -85,7 +91,7 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/drawing-book">drawing-book</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/drawing-book/xenosoz.drawing-book.python3.py" alt="xenosoz.drawing-book.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/drawing-book/daebak.drawing-book.python3.py" alt="daebak.drawing-book.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -115,7 +121,7 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/migratory-birds">migratory-birds</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/migratory-birds/xenosoz.migratory-birds.python3.py" alt="xenosoz.migratory-birds.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/migratory-birds/daebak.migratory-birds.python3.py" alt="daebak.migratory-birds.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -139,7 +145,7 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/sock-merchant">sock-merchant</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/sock-merchant/xenosoz.sock-merchant.python3.py" alt="xenosoz.sock-merchant.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/sock-merchant/daebak.sock-merchant.python3.py" alt="daebak.sock-merchant.python3.py">py3</a></th>
       <th></th>
     </tr>
