@@ -55,7 +55,7 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/cats-and-a-mouse">cats-and-a-mouse</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/cats-and-a-mouse/xenosoz.cats-and-a-mouse.python3.py" alt="xenosoz.cats-and-a-mouse.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/cats-and-a-mouse/daebak.cats-and-a-mouse.python3.py" alt="daebak.cats-and-a-mouse.python3.py">py3</a></th>
       <th></th>
     </tr>
@@ -97,14 +97,14 @@ Contact me if you want to join us!
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/electronics-shop">electronics-shop</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/electronics-shop/xenosoz.electronics-shop.python3.py" alt="xenosoz.electronics-shop.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/electronics-shop/daebak.electronics-shop.python3.py" alt="daebak.electronics-shop.python3.py">py3</a></th>
       <th></th>
     </tr>
     <tr>
       <th><a href="https://www.hackerrank.com/challenges/equality-in-a-array">equality-in-a-array</a></th>
       <th><a href="bin/../domains/algorithms-implementation/equality-in-a-array/xenosoz.equality-in-a-array.python3.py" alt="xenosoz.equality-in-a-array.python3.py">py3</a></th>
-      <th></th>
+      <th><a href="bin/../domains/algorithms-implementation/equality-in-a-array/daebak.equality-in-a-array.python3.py" alt="daebak.equality-in-a-array.python3.py">py3</a></th>
       <th></th>
     </tr>
     <tr>
@@ -147,6 +147,12 @@ Contact me if you want to join us!
       <th><a href="https://www.hackerrank.com/challenges/sock-merchant">sock-merchant</a></th>
       <th><a href="bin/../domains/algorithms-implementation/sock-merchant/xenosoz.sock-merchant.python3.py" alt="xenosoz.sock-merchant.python3.py">py3</a></th>
       <th><a href="bin/../domains/algorithms-implementation/sock-merchant/daebak.sock-merchant.python3.py" alt="daebak.sock-merchant.python3.py">py3</a></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th><a href="https://www.hackerrank.com/challenges/solve-me-first">solve-me-first</a></th>
+      <th><a href="bin/../domains/algorithms-warmup/solve-me-first/xenosoz.solve-me-first.python3.py" alt="xenosoz.solve-me-first.python3.py">py3</a></th>
+      <th></th>
       <th></th>
     </tr>
     <tr>
